@@ -5,10 +5,6 @@ This project builds a machine learning model that predicts laptop prices based o
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🧼 Data Preprocessing
 - Removed missing and inconsistent values  
 - Cleaned text fields (RAM, Storage, CPU, GPU, etc.)  
