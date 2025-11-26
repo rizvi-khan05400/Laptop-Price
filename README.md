@@ -18,7 +18,7 @@ This project builds a machine learning model that predicts laptop prices based o
 - **Linear Regression** (baseline)  
 - **Random Forest Regressor**  
 - **CatBoost Regressor** (best-performing model)
-**Note: I apply CatBoost Regressor model**
+  **Note: I apply CatBoost Regressor model**
 
 ---
 
