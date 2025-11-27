@@ -77,3 +77,6 @@ CatBoost produced the highest accuracy and required the least preprocessing.
 ## 📌 Conclusion
 This project demonstrates a complete machine learning workflow — from data preprocessing to model evaluation. The final CatBoost model provides reliable predictions and can be implemented in real-world applications involving price prediction or product recommendation.
 
+---
+
+**Deployment Link: https://huggingface.co/spaces/rizvikhan05400/Laptop-Price-Prediction**
